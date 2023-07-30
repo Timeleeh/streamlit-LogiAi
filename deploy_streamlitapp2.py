@@ -1,5 +1,4 @@
 from PIL import  Image
-from object_detection_image_video_streamlit import *
 import tempfile
 import cv2
 from super_gradients.training import models
